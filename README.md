@@ -1,5 +1,5 @@
 
-# Company Employee Analysis Dashboard
+# HR ANALYTICS DASHBOARD
 
 ## Overview
 This Power BI project analyzes various aspects of a company's employee data, focusing on attrition and other key metrics. The dashboard provides insights into employee demographics, attrition patterns, and other critical HR metrics, segmented by different departments: Human Resources, Research and Development, and Sales.
