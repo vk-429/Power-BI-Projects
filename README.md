@@ -49,7 +49,7 @@ This Power BI project analyzes various aspects of a company's employee data, foc
 - **Departmental Differences**: Compare HR metrics and attrition across different departments to identify unique challenges and opportunities.
 
 ## HR Analytics Dashboard Sample Image
-![HR Analytics Dashboard]("C:/Users/VIVEK KUMAR/POWER_BI_PROJECTS/HR_ANALYTICS_DASHBOARD/HR_ANALYTICS_DASHBOARD_2_page-0001.jpg")
+![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD_2_page-0001.jpg)
 
 ## Conclusion
 This dashboard provides a comprehensive analysis of employee data, helping stakeholders understand and address attrition and other key HR metrics. By using the slicer, users can focus on specific departments to gain deeper insights and make informed decisions to improve employee retention and overall workplace satisfaction.
